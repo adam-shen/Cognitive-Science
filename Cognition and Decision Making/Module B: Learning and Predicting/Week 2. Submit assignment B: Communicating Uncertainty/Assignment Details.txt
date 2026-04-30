@@ -3,5 +3,15 @@
 # Due Date: June 8, 2025
 # Points: 10 pts
 
-# Assignment description:
-# (Add assignment details here)
+This assignment was locked Jul 2, 2025 at 11:59pm.
+Given your background in the cognitive science of decision-making, you have been hired as a consultant whose job it is to train employees in a range of fields to better communicate uncertainties.
+
+For a non-expert audience, compose a one-page poster illustrating either:
+
+(i)  Bayes theorem and base rate neglect, or:
+(ii)  Absolute vs. relative risks (as described in the lecture), and natural frequencies vs. conditional probabilities.
+
+Please do not use ChatGPT, etc. Beyond the ethical concerns, AI tends to perform poorly on these topics; partly because people often misunderstand the concepts involved, and partly because the technical terms we’re using can differ from their everyday usage.
+
+Save as a pdf file and upload to Canvas (“Submit Assignment B”).
+

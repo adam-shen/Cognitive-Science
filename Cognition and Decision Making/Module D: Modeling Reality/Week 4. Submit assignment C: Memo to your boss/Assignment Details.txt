@@ -3,5 +3,20 @@
 # Due Date: June 22, 2025
 # Points: 10 pts
 
-# Assignment description:
-# (Add assignment details here)
+This assignment was locked Jul 2, 2025 at 11:59pm.
+Imagine a plausible future career that you might have ten years from now. Suppose that your future boss is interested by the mention of “Cognition and Decision Science” on your resume and has asked you to compose a one-page memo describing ways in which decision science might be relevant in your field of work.
+
+Compose such a memo. At the top of the page, use the following:
+
+Date: 1st June 2035
+To: [Fictitious name of boss, Fictitious job title of boss]
+From: [Your name, Your future job title]
+Subject: Re. Decision Science
+
+You can either (i) focus on what you know about decision science and speculate about how it might apply to your future career, or (ii) focus on what you know about your future career and speculate about questions that might be interesting to investigate using decision science.
+
+
+The purpose of this assignment is for you to think about how the course might be relevant to your future career and for me to learn about your individual interests so I can tailor the course to your needs. You do not need to display any profound knowledge of decision science. An honest attempt at the assignment will earn you a good grade.
+
+
+I prefer the following format: the font should be Arial,12pt; the paragraphs should be justified; the line spacing should be double. Save as a pdf file and upload to Canvas (“Submit Assignment C”).

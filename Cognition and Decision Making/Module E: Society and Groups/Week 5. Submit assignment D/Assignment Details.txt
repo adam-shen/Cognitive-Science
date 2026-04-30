@@ -3,5 +3,19 @@
 # Due Date: June 29, 2025
 # Points: 10 pts
 
-# Assignment description:
-# (Add assignment details here)
+This assignment was locked Jul 2, 2025 at 11:59pm.
+You should:
+
+Select a topic in the cognitive science of decision-making that you either find personally interesting or potentially relevant to your future career.
+Propose a research question relating to the chosen topic that could form the basis for a research hypothesis. If you are struggling, try reading your reflections posts for inspiration (you will have identified five interesting topics and five puzzling topics). The research question should be as narrow as possible. Here are examples from past papers:
+How does increased cognitive load affect decision-making accuracy in high-stakes environments?
+How does incorporating explicit base rate information into clinical decision support tools affect the accuracy of diagnostic decisions for low-prevalence conditions?
+
+Using APA format, cite six empirical peer-reviewed journal articles (in which the authors conduct studies) that are of relevance to your research question. Please provide the DOI link to each article so I can access the paper. Here is an example:
+Andrade, M., & Newall, P. W. (2023). Cryptocurrencies as gamblified financial assets and cryptocasinos: Novel risks for a public health approach to gambling. Risks, 11(3), 49. https://doi.org/10.3390/risks11030049Links to an external site.
+
+Please check that the links work and bring you to the correct article. AI hallucinations often manifest as article titles that can't be found or links to entirely different articles, and I don't want to have to report anyone on suspicion of academic misconduct.
+
+For the purposes of this assignment, you do not need to summarize the articles or justify the research question. However, for the final exam, you will summarize at least three of the articles to develop this writing assignment into a mini-literature review and research proposal.
+
+I prefer the following format: the font should be Arial,12pt; the paragraphs should be justified; the line spacing should be double. Save as a pdf file and upload to Canvas (“Submit Assignment D”).
