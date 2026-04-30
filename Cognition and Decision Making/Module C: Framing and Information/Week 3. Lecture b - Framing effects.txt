@@ -1,6 +1,3 @@
 # Video: Week 3. Lecture: b. Framing effects
 
-# Add your video link here
-
-# This is a placeholder text file. Since video files cannot be uploaded to the repository,
-# add the video URL/link below this line:
+https://youtu.be/b5977KYSohA

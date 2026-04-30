@@ -1,7 +1,4 @@
 # Video: Week 2. Lecture: b. Risk analysis and prediction
 
-# Add your video link here
-
-# This is a placeholder text file. Since video files cannot be uploaded to the repository,
-# add the video URL/link below this line:
+https://youtu.be/Xh8l0QMMH2c
 
