@@ -1,0 +1,25 @@
+This assignment was locked Jul 2, 2025 at 11:59pm.
+Recall to your mind decisions you have made in the past year about which you had to think hard. From the decisions that come to mind, briefly describe one good decision and one bad decision. For each decision state:
+
+The circumstances that gave rise to the decision.
+How many options were available.
+How long you took to make the decision.
+How good or bad the decision was relative to all the important decisions you have ever made, on an 11-point scale ranging from −5 (“extremely bad”) to 0 (“neither good nor bad”), to +5 (“extremely good”).
+How important the decision was relative to all the important decisions you have ever made, on an 11-point scale ranging from 0 (“not important at all”) to 10 (“extremely important”).
+How satisfied you are with the decision’s outcome, using an 11-point scale ranging from 0 (“not at all satisfied”) to 10 (“extremely satisfied”).
+The extent to which you feel the decision was the best one in the circumstances, using a 11-point scale ranging from 0 (“not the best”) to 10 (“definitely the best”).
+You can use a format such as:
+
+Options: 
+
+Length: 
+
+Good/bad: 
+
+Importance: 
+
+Satisfaction: 
+
+Best: 
+
+Write your name at the top. I prefer the following format: the font should be Arial,12pt; the paragraphs should be justified; the line spacing should be double. Good answers should be around one to two pages. Save as a pdf file and upload to Canvas (“Submit Assignment A”).

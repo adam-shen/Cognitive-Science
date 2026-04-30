@@ -1,7 +1,6 @@
 # Video: Week 1. Lecture: a. Welcome to the course - Summer 2025
 
-# Add your video link here
+https://youtu.be/DgwHuauPMug
 
-# This is a placeholder text file. Since video files cannot be uploaded to the repository,
-# add the video URL/link below this line:
+
 
